@@ -2,7 +2,7 @@
 ##  Team Members
 
 * **Tanishk Nath Goswami** (Roll No. 24b2165)
-* ** Heet Patel** (Roll No. 24b0020)
+* **Heet Patel** (Roll No. 24b0020)
 
 ---
 
@@ -183,4 +183,5 @@ This project demonstrates:
 * **Interactive input handling** for transformations & editing.
 * **File I/O with custom format** for model persistence.
 * Practical application of **OpenGL graphics pipeline**.
+
 
